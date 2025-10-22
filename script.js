@@ -4,7 +4,8 @@ var sounds = [
     "applepay.mp3"
   
     ]
+  var r = Math.floor(Math.random() * sounds.length)
   
-  var a = new Audio(sounds[0])
+  var a = new Audio(sounds[r])
   a.play()
 }
