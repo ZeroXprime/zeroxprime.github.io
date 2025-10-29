@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Irish+Grover&display=swap');
 body {
-  animation-name: strobe 1s infinite;
+  animation: strobe 1s infinite;
 background-color: #00ff04;
 }
 
