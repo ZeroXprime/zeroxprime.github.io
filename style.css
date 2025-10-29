@@ -12,3 +12,6 @@ font-family: "Irish Grover";
 0% {background-color: #000000;        }
   100% { background-color: #FF0000}
 }
+button:focus {
+background-color: #00FF00 ;
+}
